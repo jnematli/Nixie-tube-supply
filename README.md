@@ -1,6 +1,6 @@
 # Nixie-tube-supply
 
-This Nixie tube supply board was built as part of my Power Electronics course at KU Leuven - Campus GroupT in 2022-2023.
+This Nixie tube supply board was built as part of my Power Electronics course at KU Leuven - Campus Group T in 2022-2023.
 
 Design specifications for this board are 9V Input, and 170V Output (10 mA max). The MAX1771CPA+ step-up switching controller from MAXIM INTEGRATED was used for this application. All design choices and measurements can be found in the PDF document in the main branch.
 
